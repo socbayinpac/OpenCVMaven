@@ -44,9 +44,9 @@ class CalcHist {
 }
 
 public class OpenCV {
-    public static String ORIGIN = "a.jpg";
+    public static String ORIGIN = "origin.jpg";
     public static String RESULT = "result.jpg";
-    public static String ORIGIN_HIST = "a-hist.jpg";
+    public static String ORIGIN_HIST = "origin-hist.jpg";
     public static String RESULT_HIST = "result-hist.jpg";
 
 
